@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbattle_cats_save_editor=self.webpackChunkbattle_cats_save_editor||[]).push([[883],{9616:function(e,t,a){a.r(t);var s=a(7294);t.default=function(){return s.createElement("span",{role:"img","aria-label":"Pensive emoji"},"😔")}}}]);
